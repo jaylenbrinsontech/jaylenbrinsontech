@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>IT Support Projects (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab)
 
 
 <h2> 🤳 Connect with me:</h2>
