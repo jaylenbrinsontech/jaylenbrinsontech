@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jaylen! <br/><a href="https://github.com/jaylenbrinsontech">IT Support Professional</a>
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b>IT Support Projects (AlgoExpert)</b>
+
   - [Active Directory Home Lab](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab)
   - [Help Desk Ticketing System project](https://github.com/jaylenbrinsontech/Help-desk---ticket-system-project-)
 
