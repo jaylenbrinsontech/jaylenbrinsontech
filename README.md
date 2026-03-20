@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jaylen! 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>IT Support Projects (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2> 🤳 Connect with me:</h2>
