@@ -3,7 +3,7 @@
 
 - <b>IT Support Projects (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/jaylenbrinsontech/Active-directory-password-reset-lab)
-
+  - [Help Desk Ticketing System project](https://github.com/jaylenbrinsontech/Help-desk---ticket-system-project-)
 
 <h2> 🤳 Connect with me:</h2>
 
